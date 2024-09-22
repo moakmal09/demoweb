@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    width: 100vw;
+    height: 90px;
+    background-color: rgb(44, 236, 188);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.headerimg{
+    width: 200px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container img{
+    width: 20rem;
+}
+
+.aa {
+    display: flex;
+    flex-direction: row;
+}
